@@ -1,0 +1,6 @@
+x = int(4)
+y = int(2)
+ans = int(x * y)
+print("The first number is: " + str(x))
+print("The second number is: " + str(y))
+print("The answer is: " + str(ans))
